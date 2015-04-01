@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 2cdb1099f9414f740a5e0c16a29eedbc
+timeCreated: 1427572088
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone.001
+    100006: Bone.001_L
+    100008: Bone.001_L.001
+    100010: Bone.001_L.002
+    100012: Bone.001_L.002_end
+    100014: Bone.001_R
+    100016: Bone.001_R.001
+    100018: Bone.001_R.002
+    100020: Bone.001_R.002_end
+    100022: Bone.002
+    100024: Bone.003
+    100026: Bone.004
+    100028: Bone.005
+    100030: Bone.006
+    100032: Bone.006_end
+    100034: Bone.007
+    100036: Bone.007_end
+    100038: Bone.008
+    100040: Bone.008_L
+    100042: Bone.008_L_end
+    100044: Bone.008_R
+    100046: Bone.008_R_end
+    100048: Bone.009
+    100050: Bone.009_end
+    100052: Bone.010
+    100054: Bone.010_end
+    100056: Bone.011
+    100058: Bone.011_end
+    100060: Bone_L
+    100062: Bone_L.001
+    100064: Bone_L.002
+    100066: Bone_L.002_end
+    100068: Bone_R
+    100070: Bone_R.001
+    100072: Bone_R.002
+    100074: Bone_R.002_end
+    100076: Camera.001
+    100078: hitokage_mat_0
+    100080: hitokage_mat_1
+    100082: Lamp.001
+    100084: Lamp.002
+    100086: //RootNode
+    400000: Armature
+    400002: Bone
+    400004: Bone.001
+    400006: Bone.001_L
+    400008: Bone.001_L.001
+    400010: Bone.001_L.002
+    400012: Bone.001_L.002_end
+    400014: Bone.001_R
+    400016: Bone.001_R.001
+    400018: Bone.001_R.002
+    400020: Bone.001_R.002_end
+    400022: Bone.002
+    400024: Bone.003
+    400026: Bone.004
+    400028: Bone.005
+    400030: Bone.006
+    400032: Bone.006_end
+    400034: Bone.007
+    400036: Bone.007_end
+    400038: Bone.008
+    400040: Bone.008_L
+    400042: Bone.008_L_end
+    400044: Bone.008_R
+    400046: Bone.008_R_end
+    400048: Bone.009
+    400050: Bone.009_end
+    400052: Bone.010
+    400054: Bone.010_end
+    400056: Bone.011
+    400058: Bone.011_end
+    400060: Bone_L
+    400062: Bone_L.001
+    400064: Bone_L.002
+    400066: Bone_L.002_end
+    400068: Bone_R
+    400070: Bone_R.001
+    400072: Bone_R.002
+    400074: Bone_R.002_end
+    400076: Camera.001
+    400078: hitokage_mat_0
+    400080: hitokage_mat_1
+    400082: Lamp.001
+    400084: Lamp.002
+    400086: //RootNode
+    4300000: hitokage_mat_0
+    4300002: hitokage_mat_1
+    7400000: Armature|Stance
+    9500000: //RootNode
+    13700000: hitokage_mat_0
+    13700002: hitokage_mat_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

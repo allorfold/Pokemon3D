@@ -1,0 +1,52 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D1EC010C-BF47-8C1F-34D3-8BF44FFC85B1}") = "LeapMyoOculus Test", "Assembly-CSharp-firstpass-vs.csproj", "{1FE8B599-0DFE-0369-2E77-A7355EEB504D}"
+EndProject
+Project("{D1EC010C-BF47-8C1F-34D3-8BF44FFC85B1}") = "LeapMyoOculus Test", "Assembly-CSharp-vs.csproj", "{BA92BD52-389E-05CC-BF78-3B292C8CF695}"
+EndProject
+Project("{D1EC010C-BF47-8C1F-34D3-8BF44FFC85B1}") = "LeapMyoOculus Test", "Assembly-CSharp-Editor-vs.csproj", "{9690884D-E00A-6BE9-111D-05515481F954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FE8B599-0DFE-0369-2E77-A7355EEB504D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE8B599-0DFE-0369-2E77-A7355EEB504D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE8B599-0DFE-0369-2E77-A7355EEB504D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE8B599-0DFE-0369-2E77-A7355EEB504D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA92BD52-389E-05CC-BF78-3B292C8CF695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA92BD52-389E-05CC-BF78-3B292C8CF695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA92BD52-389E-05CC-BF78-3B292C8CF695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA92BD52-389E-05CC-BF78-3B292C8CF695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9690884D-E00A-6BE9-111D-05515481F954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9690884D-E00A-6BE9-111D-05515481F954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9690884D-E00A-6BE9-111D-05515481F954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9690884D-E00A-6BE9-111D-05515481F954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																																																																									GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal

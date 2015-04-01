@@ -1,0 +1,38 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K1000M (ID=0xffc)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\solyss\Desktop\Project Pokemon\Project Pokemon\FINAL_VERSION_1.03_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\solyss\Desktop\Project Pokemon\Project Pokemon\FINAL_VERSION_1.03_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\solyss\Desktop\Project Pokemon\Project Pokemon\FINAL_VERSION_1.03_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\solyss\Desktop\Project Pokemon\Project Pokemon\FINAL_VERSION_1.03_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\solyss\Desktop\Project Pokemon\Project Pokemon\FINAL_VERSION_1.03_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\solyss\Desktop\Project Pokemon\Project Pokemon\FINAL_VERSION_1.03_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\solyss\Desktop\Project Pokemon\Project Pokemon\FINAL_VERSION_1.03_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\solyss\Desktop\Project Pokemon\Project Pokemon\FINAL_VERSION_1.03_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\solyss\Desktop\Project Pokemon\Project Pokemon\FINAL_VERSION_1.03_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\solyss\Desktop\Project Pokemon\Project Pokemon\FINAL_VERSION_1.03_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\solyss\Desktop\Project Pokemon\Project Pokemon\FINAL_VERSION_1.03_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\solyss\Desktop\Project Pokemon\Project Pokemon\FINAL_VERSION_1.03_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.715 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\solyss\Desktop\Project Pokemon\Project Pokemon\FINAL_VERSION_1.03_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\solyss\Desktop\Project Pokemon\Project Pokemon\FINAL_VERSION_1.03_Data\Managed\System.dll (this message is harmless)
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3c20 -> priority: 1 
+  Thread -> id: 3c24 -> priority: 1 
